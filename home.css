@@ -1,0 +1,44 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url('https://parentchildmothergoose.org/wp-content/uploads/clouds_top2_1600.jpg');
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.home-link {
+  display: contents;
+}
+.home-image {
+  width: 450px;
+  object-fit: cover;
+  text-decoration: none;
+}
+.home-text {
+  font-size: 36px;
+  text-align: center;
+  padding-top: var(--dl-space-space-twounits);
+}
+.home-text2 {
+  text-decoration: underline;
+}
+.home-link2 {
+  display: contents;
+}
+.home-text3 {
+  text-decoration: none;
+}
+.home-text4 {
+  font-style: normal;
+  font-weight: 400;
+}
+.home-text6 {
+  font-style: normal;
+  text-align: center;
+  font-weight: 400;
+}
